@@ -1,0 +1,9 @@
+Catalog Item,Catalog Service Offering,Actions/Request type,SLA Duration,Fulfilment Group 1
+OneHub Service,OneHUB,Activate New Service,,DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Deactivate Existing Featured Application,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Activate Existing Featured Application,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Add New Featured Application,RITM Resolution SLA(4 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Hide Org Chart,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Unhide Org Chart,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Technical Support,,DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,General Request,,DGE HQ IT CDP OneHub Support
