@@ -1,9 +1,33 @@
-Catalog Item,Catalog Service Offering,Actions/Request type,SLA Duration,Fulfilment Group 1
-OneHub Service,OneHUB,Activate New Service,,DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,Deactivate Existing Featured Application,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,Activate Existing Featured Application,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,Add New Featured Application,RITM Resolution SLA(4 days),DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,Hide Org Chart,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,Unhide Org Chart,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,Technical Support,,DGE HQ IT CDP OneHub Support
-OneHub Service,OneHUB,General Request,,DGE HQ IT CDP OneHub Support
+Catalog Item,Catalog Service Offering,Category,Actions/Request type,SLA Duration,Fulfilment Group 1
+OneHub Service,OneHUB,Access & Authentication,Login / Access Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Access & Authentication,MFA Reset / Device Change,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Access & Authentication,Incorrect Account Resolution,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Access & Authentication,New Account Activation,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Attendance & Time Management,Attendance Violation Query,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Attendance & Time Management,Missing Swipe Regularization,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Attendance & Time Management,Check-In / Drive Safely Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Attendance & Time Management,Time Attendance Report Request,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Leave & Permissions,Leave Request Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Leave & Permissions,Remote Work / Permission Request,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Leave & Permissions,Approval Workflow Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,HR & Employee Services,Salary / Employment Certificate,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,HR & Employee Services,Employee Contract Issue,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,HR & Employee Services,Profile / Personal Data Update,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,HR & Employee Services,Delegation of Responsibilities,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,HR & Employee Services,Pay Slip Issue,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,HR & Employee Services,Performance / Evaluation Issue,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,Activate New Service,,DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,Activate Existing Featured Application,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,Deactivate Existing Featured Application,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,Add New Featured Application,RITM Resolution SLA(4 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,Hide Org Chart,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,Unhide Org Chart,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Platform Configuration,App Registration / Config Change,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Integration & Systems,ADERP / ERP Integration Issue,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Integration & Systems,Notification / Approval Sync Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Integration & Systems,Correspondence Management Issue,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Integration & Systems,API / Configuration Change,RITM Resolution SLA(4 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Mobile Application,Mobile App Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,Mobile Application,Mobile Login Issue,RITM Resolution SLA(1 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,General,General Request,RITM Resolution SLA(2 days),DGE HQ IT CDP OneHub Support
+OneHub Service,OneHUB,General,New Service Request,RITM Resolution SLA(4 days),DGE HQ IT CDP OneHub Support
